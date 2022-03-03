@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="pelicula1">Toy Story</string>
+    <string name="pelicula2">Leap Year</string>
+    <string name="pelicula3">Big Hero</string>
+    <string name="pelicula4">1917</string>
+    <string name="pelicula5">Men In Black</string>
+
+    <string name="pelicula1_desc">Los juguetes de Andy, un niño de seis años, temen que un nuevo regalo les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito, trata de tranquilizarlos hasta que aparece Buzz Lightyear.</string>
+    <string name="pelicula2_desc">Una joven viaja a Dublín para, aprovechando una costumbre irlandesa, pedirle a su novio que se case con ella, sabiendo que no puede decir que no en ese día tan especial, el 29 de febrero. Sin embargo las cosas no saldrán como había planeado.</string>
+    <string name="pelicula3_desc">Cuando un giro inesperado de eventos los sumerge en el medio de un peligroso plan, un niño prodigio, su robot y sus amigos se convierten en héroes de alta tecnología en una misión para salvar su ciudad.</string>
+    <string name="pelicula4_desc">Durante la Primera Guerra Mundial, dos jóvenes soldados británicos reciben una orden, aparentemente, imposible de ejecutar: en una carrera contra el reloj, deben infiltrarse en territorio enemigo para entregar un mensaje que podría salvar a miles de compañeros.</string>
+    <string name="pelicula5_desc">Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los seres humanos, sin que nadie lo supiese. Los Hombres de Negro son agentes especiales que forman parte de una unidad altamente secreta del gobierno; su misión consiste en controlar a los alienígenas.</string>
+</resources>
